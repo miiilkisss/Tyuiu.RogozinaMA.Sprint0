@@ -8,7 +8,7 @@ namespace Tyuiu.RogozinaMA.Sprint0.Task6.V0.Lib
 {
     public class DataService
     {
-        //Пример циклической структуры (цикл с параметрами) for
+      
         public static object AdditionArray(int[] numbers)
         {
             var total = 0;
@@ -19,7 +19,7 @@ namespace Tyuiu.RogozinaMA.Sprint0.Task6.V0.Lib
             return total;
         }
 
-        //Пример циклической структуры (цикл с предусловием) while
+      
         public static object SubtractionArray(int[] numbers)
         {
             var total = 0;
@@ -33,7 +33,7 @@ namespace Tyuiu.RogozinaMA.Sprint0.Task6.V0.Lib
             return total;
         }
 
-        //Пример циклической структуры (цикл с постусловием) do while
+     
         public static object MultiplicationArray(int[] numbers)
         {
             var total = 1;
